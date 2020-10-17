@@ -1,1 +1,1 @@
-See <a href="https://axaguildev.github.io/react-toolkit/latest/design/molecules/table" title="table component" >Table guidelines</a>
+See <a href="https://axaguildev.github.io/design-system/molecules/table" title="table component" >Table guidelines</a>

@@ -51,7 +51,7 @@ d) Rédaction
 e) Pictogrammes
 
 -   Taille 16\*16 px
--   Uniquement de la <a href="https://axaguildev.github.io/react-toolkit/latest/design/guidelines/icones" title="icon design system Axa" >liste des pictogrammes du Design System</a>
+-   Uniquement de la <a href="https://axaguildev.github.io/design-system/guidelines/icones" title="icon design system Axa" >liste des pictogrammes du Design System</a>
 -   Espacement avec le label de 16px
 -   Centré dans la hauteur du bouton
 
