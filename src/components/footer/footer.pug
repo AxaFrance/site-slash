@@ -1,0 +1,37 @@
+include ./social.pug
+-const modifier = menuState === undefined ? 'opened' : menuState
+-const classComponent = `${setClass('footer-client', modifier, true)}`
+
+footer(class=classComponent)
+  .af-footer-client__top
+    .af-container
+      .af-footer-client__top-container
+        .af-footer-client__column
+          h3.af-footer-client__column-title Ressources
+          ul.af-footer-client__column-items
+            li.af-footer-client__column-item
+              a.af-footer-client__column-link(href="https://www.sketch.com/s/2ac5fa1d-6be5-4677-923a-c3e7aff0ac24" target="blank" rel="noopener noreferrer" title="Sketch Axa France") Sketch
+            li.af-footer-client__column-item
+              a.af-footer-client__column-link(href="https://axaguildev.github.io/react-toolkit/latest/storybook" target="blank" rel="noopener noreferrer" title="Storybook Axa France") Storybook
+            li.af-footer-client__column-item
+              a.af-footer-client__column-link(href="https://dev.azure.com/axaguildev/react-toolkit/" target="blank" rel="noopener noreferrer" title="Pipeline Axa France") Pipeline
+        .af-footer-client__column
+          h3.af-footer-client__column-title Axa & You
+          ul.af-footer-client__column-items
+            li.af-footer-client__column-item
+              a.af-footer-client__column-link(href="https://recrutement.axa.fr/" target="blank" rel="noopener noreferrer" title="Recrutement Axa France" ) Recrutement Axa France
+            li.af-footer-client__column-item
+              a.af-footer-client__column-link(href="https://medium.com/just-tech-it-now" target="blank" rel="noopener noreferrer" title="Blog Axa France") Blog Axa France
+            li.af-footer-client__column-item
+              a.af-footer-client__column-link(href="https://github.com/axa-group"  target="blank" rel="noopener noreferrer" title="Github Axa Group") Github Axa Group
+        .af-footer-client__column
+          h3.af-footer-client__column-title Communauté Axa France
+          ul.af-footer-client__column-items
+            li.af-footer-client__column-item
+              a.af-footer-client__column-link(href="https://axaguildev.github.io/" target="blank" rel="noopener noreferrer" title="Open Source Axa France") Open Source Axa France
+            li.af-footer-client__column-item
+              a.af-footer-client__column-link(href="https://github.com/AxaGuilDEv/" target="blank" rel="noopener noreferrer" title="Github Axa France") Github Axa France
+            li.af-footer-client__column-item
+              a.af-footer-client__column-link(href="https://www.npmjs.com/search?q=%40axa-fr" target="blank" rel="noopener noreferrer" title="Npm Axa France") Npm Axa France
+        +FooterSocial({ instagram: false })
+include ./bottom.pug
