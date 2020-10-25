@@ -1,10 +1,10 @@
-# Stack Gulp
+# Design System
 
 ## Before Started
 
-**If you've previously installed gulp globally**, `run npm rm --global gulp` before following these instructions. For more information, read this [Sip][https://medium.com/gulpjs/gulp-sips-command-line-interface-e53411d4467]
+**If you've previously installed gulp globally**, `run npm rm --global gulp` before following these instructions. For more information, read this [Sip](https://medium.com/gulpjs/gulp-sips-command-line-interface-e53411d4467)
 
-#### Check for Node and npm
+### Check for Node and npm
 
 ```bash
 node --version
@@ -14,7 +14,7 @@ node --version
 npm --version
 ```
 
-#### Install the gulp command
+### Install the gulp command
 
 ```bash
 npm install --global gulp-cli
