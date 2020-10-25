@@ -8,11 +8,11 @@ L’écriture est une composante essentielle de l’expérience utilisateur. Tou
 
 ### 1) Général
 
-La constance du discours et du ton est cruciale. Elle permet de capter l’attention, de créer un lien entre l’utilisateur et l’outil. Quelle est la différence entre les deux ? Le discours est constant, c’est la « ligne éditoriale » d’Axa, tandis que le ton est la façon dont le discours est tenu, il est par nature variable selon la situation.
+La constance du discours et du ton est cruciale. Elle permet de capter l’attention, de créer un lien entre l’utilisateur et l’outil. Quelle est la différence entre les deux ? Le discours est constant, c’est la «&nbsp;ligne éditoriale&nbsp;» d’AXA, tandis que le ton est la façon dont le discours est tenu, il est par nature variable selon la situation.
 
 ### 2) Discours
 
-C’est la voix d’Axa, une des bases de la communication de la marque. Le discours doit retranscrire les valeurs humaines d’Axa, créer une connexion directe avec les utilisateurs. Il doit permettre les utilisateurs à accomplir leurs objectifs.
+C’est la voix d’AXA, une des bases de la communication de la marque. Le discours doit retranscrire les valeurs humaines d’AXA, créer une connexion directe avec les utilisateurs. Il doit permettre aux utilisateurs d’atteindre leurs objectifs.
 
 ### 3) Ton
 
@@ -24,11 +24,11 @@ Le bon ton utilisé au bon endroit peut faire changer la perception d’une exp�
 
 ### 1) Général
 
-Le contenu ne doit jamais être ressenti comme complexe, distant ou délité. Il doit ressembler à une conversation avec un agent expérimenté — à la fois convivial, courtois, détaillé mais simple.
+Le contenu ne doit jamais être ressenti comme complexe, distant ou délité. Il doit ressembler à une conversation avec un utilisateur expérimenté — à la fois convivial, courtois, détaillé mais simple.
 
 ### 2) Taches, instructions
 
-Les instructions doivent être les plus concises et neutres que possible. Par exemple: « Allez à: Paramètres du compte > Informations générales ».
+Les instructions doivent être les plus concises et neutres que possible. Par exemple: «&nbsp;Allez à: Paramètres du compte > Informations générales&nbsp;».
 
 ### 3) Aides, consignes, support
 
@@ -68,16 +68,16 @@ b) Les formes possessives — mon compte — ne doivent être utilisées que lor
 
 a) Privilégier les formes de phrases courtes et simples, même si la tournure est moins soutenue. La compréhension est prioritaire.
 
-b) Il est possible d’utiliser de la ponctuation spécifique, comme les ? et ! s’ils soutiennent le discours. Le point d’interrogation sera utile pour confirmer le choix d’un utilisateur dans une modale de confirmation « Êtes-vous sûr de… ». Le point d’exclamation pourra être utilisé pour souligner la réussite d’une action « Votre contrat est prêt à envoyer !»
+b) Il est possible d’utiliser de la ponctuation spécifique, comme les «&nbsp;?&nbsp;» et «&nbsp;!&nbsp;» s’ils soutiennent le discours. Le point d’interrogation sera utile pour confirmer le choix d’un utilisateur dans une modale de confirmation «&nbsp;Êtes-vous sûr de…&nbsp;». Le point d’exclamation pourra être utilisé pour souligner la réussite d’une action «&nbsp;Votre contrat est prêt à envoyer !&nbsp;»
 
 c) La politesse doit être utilisée avec parcimonie, afin d’éviter toute lecture trop pompeuse on condescendante.
 
 ### 6) Capacité, devoir, permission, possibilité
 
-a) Si un utilisateur a/obtient la capacité de mener une action, le choix du verbe doit l’exprimer : « Vous pouvez désormais mettre à jour votre profil ».
+a) Si un utilisateur a&nbsp;/&nbsp;obtient la capacité de mener une action, le choix du verbe doit l’exprimer&nbsp;: «&nbsp;Vous pouvez désormais mettre à jour votre profil&nbsp;».
 
-b) Si un utilisateur doit mener une action spécifique pour obtenir un résultat, l’impératif ou l’utilisation du verbe « devoir » sera adapté au contexte temporel.
-c) Impératif pour un action critique dans un flux : « Complétez le champ manquant pour valider la section ». L’utilisateur est obligé d’agir tout de suite pour continuer sa tâche.
+b) Si un utilisateur doit mener une action spécifique pour obtenir un résultat, l’impératif ou l’utilisation du verbe « devoir » seront adaptés au contexte temporel.
+c) Impératif pour une action critique dans un flux&nbsp;: «&nbsp;Complétez le champ manquant pour valider la section&nbsp;». L’utilisateur est obligé d’agir tout de suite pour continuer sa tâche.
 
 d) Devoir pour une action non-critique : « Vous devez mettre à jour vos informations pour actualiser votre profil ». L’utilisateur n’est pas obligé de mettre à jour aujourd’hui les informations, il peut quitter sans continuer.
 

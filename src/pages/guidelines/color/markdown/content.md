@@ -1,14 +1,14 @@
 ## 1) Général
 
-a) La couleur est une notion indispensable dans l’identité de marque. Axa possède des codes bien définis, offrant un cadre pour l’ensemble de ses produits digitaux, qu’il convient de définir.
+### a) La couleur est une notion indispensable dans l’identité de marque. AXA possède des codes bien définis, offrant un cadre pour l’ensemble de ses produits digitaux, qu’il convient de définir
 
-Au delà de la marque, d’autres couleurs, sémantiques, ajoutent un niveau de contexte aux informations à l’écran: rouge pour erreur, vert pour succès, etc.
+Au delà de la marque, d’autres couleurs, sémantiques, ajoutent un niveau de contexte aux informations à l’écran&nbsp;: rouge pour erreur, vert pour succès, etc.
 
 ## 2) Principale
 
-a) La couleur principale est le bleu AXA.
+### a) La couleur principale est le bleu AXA
 
-<img src="../../assets/images/colors/colors-01.svg" alt="bleu axa"  />
+<p><img src="../../assets/images/colors/colors-01.svg" alt="bleu axa"  /></p>
 
 ## 3) Sémantique
 
@@ -17,11 +17,11 @@ b) Réussite
 c) Avertissement
 d) Information
 
-<img src="../../assets/images/colors/colors-02.svg" alt="semantique" />
+<p><img src="../../assets/images/colors/colors-02.svg" alt="semantique" /></p>
 
 ## 4) Styles de textes
 
-<img src="../../assets/images/colors/colors-03.svg" alt="style texte" />
+<p><img src="../../assets/images/colors/colors-03.svg" alt="style texte" /></p>
 
 ## 5) Interaction
 
@@ -31,7 +31,7 @@ c) selected
 d) focus
 e) disabled
 
-<img src="../../assets/images/colors/colors-04.svg" alt="interaction" />
+<p><img src="../../assets/images/colors/colors-04.svg" alt="interaction" /></p>
 
 ## 6) Thème
 
@@ -39,7 +39,7 @@ Un seul thème, clair, est proposé actuellement
 
 ## 7) Couleur de fond
 
-<img src="../../assets/images/colors/colors-05.svg" alt="couleur de fond" class="tk-markdown__img-fullscreen" />
+<p><img src="../../assets/images/colors/colors-05.svg" alt="couleur de fond" class="tk-markdown__img-fullscreen" /></p>
 
 ## 8) Accessibilité
 
@@ -47,4 +47,4 @@ L’ensemble des textes doivent respecter les contrastes de couleurs minimum de 
 
 [https://webaim.org/resources/contrastchecker/](https://webaim.org/resources/contrastchecker/)
 
-<img src="../../assets/images/colors/contraster.jpg" alt="contrast checker" class="tk-markdown__img-fullscreen" />
+<p><img src="../../assets/images/colors/contraster.jpg" alt="contrast checker" class="tk-markdown__img-fullscreen" /></p>

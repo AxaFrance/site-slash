@@ -1,4 +1,4 @@
-## Comment créer une issue sur Github ?
+# Comment créer une issue sur Github
 
 1- Sur Github, aller jusqu'à la page principale du reposotory
 
@@ -6,15 +6,15 @@
 
 3- Cliquer **New issue**
 
-<img src="../../assets/images/issue/new_issues_button.png" alt="new_issues_button" />
+<p><img src="../../assets/images/issue/new_issues_button.png" alt="new_issues_button" /></p>
 
 4- Un template d'issue a été mis en place pour faciliter la création
 
-<img src="../../assets/images/issue/template.jpg" alt="template" />
+<p><img src="../../assets/images/issue/template.jpg" alt="template" /></p>
 
 5- Conseils
 
--   Avant de poster une issue, lisez la documentation
--   Plus vous serez précis dans votre description, plus la réponse sera pertinente
--   Mettez des imprim'écran si c'est un bug graphique
--   Précisez la version utilisée
+- Avant de poster une issue, lisez la documentation
+- Plus vous serez précis dans votre description, plus la réponse sera pertinente
+- Mettez des imprim'écran si c'est un bug graphique
+- Précisez la version utilisée

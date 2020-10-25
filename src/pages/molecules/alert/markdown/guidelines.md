@@ -2,7 +2,7 @@
 
 Une notification permet de communiquer une information ou un résultat d’action dans un bloc flottant, superposé à la page. D’une durée d’affichage déterminée, elle permet à l’utilisateur de comprendre les processus en cours ou achevés sans sortir de son parcours.
 
-<img src="../../assets/images/alert/alert-01.jpg" alt="alert" class="tk-markdown__img-fullscreen" />
+<p><img src="../../assets/images/alert/alert-01.jpg" alt="alert" class="tk-markdown__img-fullscreen" /></p>
 
 ## 2) Use case
 
@@ -22,49 +22,49 @@ Une variation de notification ne peut pas être utilisé pour un autre type d’
 
 Une notification est composée d’un titre et optionnellement d’un texte.
 
--   Titre: Doit expliquer succinctement le contexte, qui pourra être complété par un texte.
--   Texte: Doit contenir un minimum d’information précisant le titre.
+- Titre: Doit expliquer succinctement le contexte, qui pourra être complété par un texte.
+- Texte: Doit contenir un minimum d’information précisant le titre.
 
-<img src="../../assets/images/alert/alert-02.jpg" alt="alert" class="tk-markdown__img-fullscreen" />
+<p><img src="../../assets/images/alert/alert-02.jpg" alt="alert" class="tk-markdown__img-fullscreen" /></p>
 
 ## 4) Utilisation
 
-a) Position
+### a) Position
 
 Une notification devra être positionnée à [48 px] en dessous du header de la page.
 
-<img src="../../assets/images/alert/alert-03.jpg" alt="alert" class="tk-markdown__img-fullscreen" />
+<p><img src="../../assets/images/alert/alert-03.jpg" alt="alert" class="tk-markdown__img-fullscreen" /></p>
 
-b) Alignement
+### b) Alignement
 
 Une notification doit prendre la largeur d’affichage maximale disponible (jusqu’à 12 colonnes).
 
-c) Contenu
+### c) Contenu
 
 Les titres et textes sont ferrés à gauche.
 
-<img src="../../assets/images/alert/alert-04.jpg" alt="alert" class="tk-markdown__img-fullscreen" />
+<p><img src="../../assets/images/alert/alert-04.jpg" alt="alert" class="tk-markdown__img-fullscreen" /></p>
 
-d) Rédaction
+### d) Rédaction
 
--   Les titres et contenus doivent être le plus clair et concis possible.
--   Le titre doit rentrer sur une seule ligne.
+- Les titres et contenus doivent être le plus clair et concis possible.
+- Le titre doit rentrer sur une seule ligne.
 
-e) Pictogrammes
+### e) Pictogrammes
 
 Aucun pictogramme ne doit être utilisé dans les textes ou les boutons CTA.
 
-f) Variations
+### f) Variations
 
--   Information
--   Avertissement
--   Succès
--   Erreur
+- Information
+- Avertissement
+- Succès
+- Erreur
 
 Chaque notification existe en plusieurs variation:
 
--   1 ligne
--   2 lignes
--   2 lignes + CTA
+- 1 ligne
+- 2 lignes
+- 2 lignes + CTA
 
-<img src="../../assets/images/alert/alert-05.jpg" alt="alert" class="tk-markdown__img-fullscreen" />
+<p><img src="../../assets/images/alert/alert-05.jpg" alt="alert" class="tk-markdown__img-fullscreen" /></p>

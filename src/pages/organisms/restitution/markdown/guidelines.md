@@ -6,7 +6,7 @@ Coming soon...
 
 Coming soon...
 
-<img src="../../assets/images/restit/restit-01.jpg" alt="restit" class="tk-markdown__img-fullscreen" />
+<p><img src="../../assets/images/restit/restit-01.jpg" alt="restit" class="tk-markdown__img-fullscreen" /></p>
 
 ## 3) DO/DONT
 
@@ -18,36 +18,36 @@ Coming soon...
 
 ## 5) Utilisation
 
-a) Position
+### a) Position
 
 Coming soon...
 
-b) Alignement
+### b) Alignement
 
 Coming soon...
 
-c) Contenu
+### c) Contenu
 
 Coming soon...
 
-d) Rédaction
+### d) Rédaction
 
 Coming soon...
 
-<img src="../../assets/images/restit/restit-02.jpg" alt="restit" class="tk-markdown__img-fullscreen" />
+<p><img src="../../assets/images/restit/restit-02.jpg" alt="restit" class="tk-markdown__img-fullscreen" /></p>
 
-<img src="../../assets/images/restit/restit-03.jpg" alt="restit" class="tk-markdown__img-fullscreen" />
+<p><img src="../../assets/images/restit/restit-03.jpg" alt="restit" class="tk-markdown__img-fullscreen" /></p>
 
-<img src="../../assets/images/restit/restit-04.jpg" alt="restit" class="tk-markdown__img-fullscreen" />
+<p><img src="../../assets/images/restit/restit-04.jpg" alt="restit" class="tk-markdown__img-fullscreen" /></p>
 
-e) Pictogrammes
-
-Coming soon...
-
-f) Action
+### e) Pictogrammes
 
 Coming soon...
 
-g) Variations
+### f) Action
+
+Coming soon...
+
+### g) Variations
 
 Coming soon...
