@@ -32,7 +32,7 @@ Before you start developping, it is important to always keep your forked reposit
 For this, you will add a remote which points to the original repository (this has to be done only once):
 
 ```sh
-git remote add upstream https://github.com/AxaGuilDEv/design-system
+git remote add upstream https://github.com/AxaGuilDEv/design-system.git
 ```
 
 ### Update your master branch
@@ -49,7 +49,7 @@ More information in github documentation: [Fork a repo#Keep your fork synced](ht
 
 ## Generated content
 
-The following pages of this website a generated, please do not modify them:
+The following pages of this website are generated, please do not modify them:
 
 - "Contributeurs" page: [contributors-page.pug](https://github.com/AxaGuilDEv/design-system/blob/master/src/pages/get-started/contributors/templates/contributors-page.pug)
 - "Changelog" page: [content.md](https://github.com/AxaGuilDEv/design-system/blob/master/src/pages/get-started/changelog/markdown/content.md)
