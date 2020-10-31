@@ -30,7 +30,7 @@ Le bouton primaire sera toujours le plus à droite, le bouton secondaire à gauc
 ### b) Alignement
 
 - Bouton primaire seul dans une modale : Ferré à droite et largeur ajustée au label
-- Bouton primaire et secondaire dans une modale : ferré à droite, espace de 8   px entre les boutons.
+- Bouton primaire et secondaire dans une modale : ferré à droite, espace de 8px entre les boutons.
 - Lors de groupement de boutons, utiliser un espacement de 8px entre les éléments
 
 <p><img src="../../assets/images/button/button-04.jpg" alt="button" class="tk-markdown__img-fullscreen" /></p>
@@ -49,7 +49,7 @@ Le bouton primaire sera toujours le plus à droite, le bouton secondaire à gauc
 
 ### e) Pictogrammes
 
-- Taille 16\*16 px
+- Taille 16\*16px
 - Uniquement de la <a href="https://axaguildev.github.io/design-system/guidelines/icones" title="icon design system AXA" >liste des pictogrammes du Design System</a>
 - Espacement avec le label de 16px
 - Centré dans la hauteur du bouton

@@ -14,14 +14,14 @@ Chaque composant selon sa taille sera espacé systématiquement de la même mani
 
 a) Les composants primaires, les plus petits, peuvent être espacés dans toutes les dimensions avec les blocs d’espaces suivants&nbsp;:
 
-1. 2\*2 px
-2. 4\*4 px
-3. 8\*8 px
-4. 16\*16 px
-5. 24\*24 px
-6. 32\*32 px
-7. 40\*40 px
-8. 48\*48 px
+1. 2\*2px
+2. 4\*4px
+3. 8\*8px
+4. 16\*16px
+5. 24\*24px
+6. 32\*32px
+7. 40\*40px
+8. 48\*48px
 
 <p><img src="../../assets/images/spaces/spaces-02.jpg" alt="spaces" class="tk-markdown__img-fullscreen" /></p>
 
@@ -29,12 +29,12 @@ a) Les composants primaires, les plus petits, peuvent être espacés dans toutes
 
 a) Les composants formés de plusieurs atomes utilisent un set d’espacements plus grands, leur donnant plus d’espace pour s’exprimer&nbsp;:
 
-1. 16\*16 px
-2. 24\*24 px
-3. 32\*32 px
-4. 48\*48 px
-5. 64\*64 px
-6. 80\*80 px
-7. 96\*96 px
+1. 16\*16px
+2. 24\*24px
+3. 32\*32px
+4. 48\*48px
+5. 64\*64px
+6. 80\*80px
+7. 96\*96px
 
 <p><img src="../../assets/images/spaces/spaces-03.jpg" alt="spaces" class="tk-markdown__img-fullscreen" /></p>

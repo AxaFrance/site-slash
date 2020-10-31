@@ -12,7 +12,7 @@ Le spinner est un composant animé faisant patienter l’utilisateur lors de tâ
 ## 3) DO/DONT
 
 - Le spinner ne doit pas être utilisé si l’on peut afficher une barre de chargement quantifiée (XX%).
-- Le spinner ne doit pas être utilisé si le résultat de l’action de s’affiche pas dans un laps de temps raisonnable (< 1 minute). Par exemple, si une action nécessite l’action d’un admin pour que le processus avance d’une étape, on préfèrera utiliser un message indiquant le délai moyen de traitement.
+- Le spinner ne doit pas être utilisé si le résultat de l’action ne s’affiche pas dans un laps de temps raisonnable (< 1 minute). Par exemple, si une action nécessite l’action d’un admin pour que le processus avance d’une étape, on préfèrera utiliser un message indiquant le délai moyen de traitement.
 
 <p><img src="../../assets/images/loader/loader-02.jpg" alt="loader" class="tk-markdown__img-fullscreen" /></p>
 

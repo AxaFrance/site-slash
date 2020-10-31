@@ -31,7 +31,7 @@ Une notification est composée d’un titre et optionnellement d’un texte.
 
 ### a) Position
 
-Une notification devra être positionnée à [48 px] en dessous du header de la page.
+Une notification devra être positionnée à [48px] en dessous du header de la page.
 
 <p><img src="../../assets/images/alert/alert-03.jpg" alt="alert" class="tk-markdown__img-fullscreen" /></p>
 

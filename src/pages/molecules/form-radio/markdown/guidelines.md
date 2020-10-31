@@ -36,7 +36,7 @@ Les boutons radio sont utilisés pour sélectionner parmi une liste d’options 
 
 ### b) Alignement
 
-Le bouton radio et son label sont ferrés à gauche de leur bloc parent. Le label sera contenu de préférence sur une ligne de 224 px de large soit 2 colonnes.
+Le bouton radio et son label sont ferrés à gauche de leur bloc parent. Le label sera contenu de préférence sur une ligne de 224px de large soit 2 colonnes.
 
 <p><img src="../../assets/images/radio/radio-05.jpg" alt="radio" class="tk-markdown__img-fullscreen" /></p>
 

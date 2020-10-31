@@ -24,7 +24,7 @@ Si les réponses sont mutuellement exclusives, on utilisera un bouton radio.
 ### a) Position
 
 - La checkbox est toujours à gauche de son label.
-- La checkbox est espacée de 16 px de son label.
+- La checkbox est espacée de 16px de son label.
 
 ### b) Alignement
 
