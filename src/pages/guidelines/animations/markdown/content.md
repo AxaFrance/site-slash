@@ -14,4 +14,4 @@ Les animations permettent de donner de la vie aux écrans et de faciliter la com
 <li>Accélération puis décélération pour une animation plus souple des éléments.</li>
 </ol>
 
-<img src="../../assets/images/animations/courbes.jpg" alt="animations-courbes" class="tk-markdown__img-fullscreen" />
+<p><img src="../../assets/images/animations/courbes.jpg" alt="animations-courbes" class="tk-markdown__img-fullscreen" /></p>

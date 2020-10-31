@@ -1,13 +1,14 @@
 ## 1) Général
 
 1. Le Design System AXA se base sur la police Source Sans Pro.
+
 2. Graisse
 
--   Regular
--   Semibold
--   Bold
+  - Regular
+  - Semibold
+  - Bold
 
-<img src="../../assets/images/typographie/typo-01.jpg" alt="typographie" class="tk-markdown__img-fullscreen" />
+<p><img src="../../assets/images/typographie/typo-01.jpg" alt="typographie" class="tk-markdown__img-fullscreen" /></p>
 
 ## 2) Échelle
 
@@ -19,13 +20,13 @@
 
 | 12 | 14 | 16 | 18 | 20 | 24 | 28 | 32 | 68 |
 
-<img src="../../assets/images/typographie/typo-02.jpg" alt="typographie" class="tk-markdown__img-fullscreen" />
+<p><img src="../../assets/images/typographie/typo-02.jpg" alt="typographie" class="tk-markdown__img-fullscreen" /></p>
 
 ## 3) Couleur
 
-1. La couleur des textes sera basée sur la palette de couleur « Gris », hors textes sémantiques (erreur, succès, information, avertissement).
+1. La couleur des textes sera basée sur la palette de couleur «&nbsp;Gris&nbsp;», hors textes sémantiques (erreur, succès, information, avertissement).
 
 2. L’utilisation d’autres couleurs doit être faite avec grande attention:
 
--   Ne pas utiliser de couleur pour « décorer »
--   Ne pas changer de couleur les liens ou autres objets déjà définis.
+- Ne pas utiliser de couleur pour «&nbsp;décorer&nbsp;».
+- Ne pas changer de couleur les liens ou autres objets déjà définis.

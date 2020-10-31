@@ -6,7 +6,7 @@ Un accordéon peut délivrer une grande quantité d’information grâce à son 
 
 L’accordéon est particulièrement efficace lorsque l’on souhaite afficher des contenus où les titres aident l’utilisateur à trouver rapidement le contenu, et pour les formulaires qui ont besoin d’être découpés en plusieurs parties pour faciliter leur remplissage ainsi que procurer des points de sauvegarde.
 
-<img src="../../assets/images/accordion/accordion-01.jpg" alt="accordion" class="tk-markdown__img-fullscreen" />
+<p><img src="../../assets/images/accordion/accordion-01.jpg" alt="accordion" class="tk-markdown__img-fullscreen" /></p>
 
 ## 3) DO / DONT
 
@@ -24,7 +24,7 @@ L’accordéon est particulièrement efficace lorsque l’on souhaite afficher d
 4. Les fonctionnalités d'ouverture et de fermeture ne doivent jamais être déclenchées au survol.
 5. Ne pas imbriquer les accordéons.
 
-<img src="../../assets/images/accordion/accordion-02.jpg" alt="accordion" class="tk-markdown__img-fullscreen" />
+<p><img src="../../assets/images/accordion/accordion-02.jpg" alt="accordion" class="tk-markdown__img-fullscreen" /></p>
 
 ## 3) Avancé
 
@@ -32,39 +32,39 @@ Un accordéon ouvert se referme quand un autre du même groupe est ouvert par l�
 
 ## 4) Utilisation
 
-a) Position
+### a) Position
 
 L’accordéon prend toute la largeur de la colonne de contenu disponible dans la grille.
 
-b) Alignement
+### b) Alignement
 
 L’accordéon est aligné à gauche dans le bloc de contenu parent.
 
-c) Contenu
+### c) Contenu
 
--   Le titre doit rester préférablement sur une ligne.
--   Le contenu prend toute la largeur disponible en respectant la grille, les espacements, paddings et margins.
+- Le titre doit rester préférablement sur une ligne.
+- Le contenu prend toute la largeur disponible en respectant la grille, les espacements, paddings et margins.
 
-<img src="../../assets/images/accordion/accordion-03.jpg" alt="accordion" class="tk-markdown__img-fullscreen" />
+<p><img src="../../assets/images/accordion/accordion-03.jpg" alt="accordion" class="tk-markdown__img-fullscreen" /></p>
 
-d) Rédaction
+### d) Rédaction
 
--   Le titre doit être suffisamment clair et précis pour que l’utilisateur puisse comprendre toutes les informations contenues dans la section concernée.
--   Le contenu de l’accordéon doit être en rapport avec le titre, pour le ton comme le discours.
+- Le titre doit être suffisamment clair et précis pour que l’utilisateur puisse comprendre toutes les informations contenues dans la section concernée.
+- Le contenu de l’accordéon doit être en rapport avec le titre, pour le ton comme le discours.
 
-e) Variations
+### e) Variations
 
--   Accordéon d’information
-    -   Livre des informations variées et secondaires en relation avec le contenu de la page.
-    -   Une version pour les affichages plein écrans peut être utilisé.
--   Accordéon de questionnaire
-    -   Ce format est utilisé dans le cadre de formulaires longs ou en plusieurs parties. Le contenu pourra être constitué de paragraphes, labels, boutons, champs, datepickers, selects, etc.
+- Accordéon d’information
+    - Livre des informations variées et secondaires en relation avec le contenu de la page.
+    - Une version pour les affichages plein écrans peut être utilisé.
+- Accordéon de questionnaire
+    - Ce format est utilisé dans le cadre de formulaires longs ou en plusieurs parties. Le contenu pourra être constitué de paragraphes, labels, boutons, champs, datepickers, selects, etc.
 
-<img src="../../assets/images/accordion/accordion-04.jpg" alt="accordion" class="tk-markdown__img-fullscreen" />
+<p><img src="../../assets/images/accordion/accordion-04.jpg" alt="accordion" class="tk-markdown__img-fullscreen" /></p>
 
-f) Etats
+### f) Etats
 
--   Ouvert
--   Fermé
+- Ouvert
+- Fermé
 
-<img src="../../assets/images/accordion/accordion-05.jpg" alt="accordion" class="tk-markdown__img-fullscreen" />
+<p><img src="../../assets/images/accordion/accordion-05.jpg" alt="accordion" class="tk-markdown__img-fullscreen" /></p>

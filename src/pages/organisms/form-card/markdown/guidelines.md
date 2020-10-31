@@ -6,7 +6,7 @@ Coming soon...
 
 Coming soon...
 
-<img src="../../assets/images/card/card-01.jpg" alt="card" class="tk-markdown__img-fullscreen" />
+<p><img src="../../assets/images/card/card-01.jpg" alt="card" class="tk-markdown__img-fullscreen" /></p>
 
 ## 3) DO/DONT
 
@@ -14,28 +14,28 @@ Coming soon...
 
 ## 4) Utilisation
 
-<img src="../../assets/images/card/card-02.jpg" alt="card" class="tk-markdown__img-fullscreen" />
+<p><img src="../../assets/images/card/card-02.jpg" alt="card" class="tk-markdown__img-fullscreen" /></p>
 
-a) Position
-
-Coming soon...
-
-b) Alignement
+### a) Position
 
 Coming soon...
 
-c) Contenu
+### b) Alignement
 
 Coming soon...
 
-d) Rédaction
+### c) Contenu
 
 Coming soon...
 
-e) Action
+### d) Rédaction
 
 Coming soon...
 
-f) États
+### e) Action
+
+Coming soon...
+
+### f) États
 
 Coming soon...

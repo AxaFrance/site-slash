@@ -4,9 +4,9 @@ Les icônes sont des symboles représentant des idées, objets ou actions. Ils c
 
 ## 2) Taille
 
-Les icônes doivent être utilisés en accord avec la taille des textes juxtaposés: 16x16px ou 32x32px.
+Les icônes doivent être utilisés en accord avec la taille des textes juxtaposés: 16\*16px ou 32\*32px.
 
-Les icônes « boutons » doivent mesurer 40x40px minimum.
+Les icônes «&nbsp;boutons&nbsp;» doivent mesurer 40\*40px minimum.
 
 ## 3) Couleur
 
@@ -16,4 +16,4 @@ La couleur d’un pictogramme accompagnant un texte doit être la même.
 
 Les icônes doivent être alignés verticalement avec les textes.
 
-<img src="../../assets/images/icones/icones.jpg" alt="icones" class="tk-markdown__img-fullscreen" />
+<p><img src="../../assets/images/icones/icones.jpg" alt="icones" class="tk-markdown__img-fullscreen" /></p>

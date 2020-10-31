@@ -6,7 +6,7 @@ Le train d’étapes est une représentation visuelle de la position de l’util
 
 Le train d’étapes sera utilisé pour des parcours comprenant plusieurs étapes.
 
-<img src="../../assets/images/step/step-01.jpg" alt="step" class="tk-markdown__img-fullscreen" />
+<p><img src="../../assets/images/step/step-01.jpg" alt="step" class="tk-markdown__img-fullscreen" /></p>
 
 ## 3) DO/DONT
 
@@ -15,28 +15,28 @@ Trop d’étapes peuvent envoyer un signal contraire : trop d’étapes pour com
 
 ## 4) Utilisation
 
-<img src="../../assets/images/step/step-02.jpg" alt="step" class="tk-markdown__img-fullscreen" />
+<p><img src="../../assets/images/step/step-02.jpg" alt="step" class="tk-markdown__img-fullscreen" /></p>
 
-a) Position
+### a) Position
 
 Le train d’étape sera toujours le premier élément collé sous le header.
 
-b) Alignement
+### b) Alignement
 
 Le train d’étapes s’étale sur les 12 colonnes, son fond blanc.
 
-c) Contenu
+### c) Contenu
 
 Le train d’étapes doit contenir toutes les étapes, séparé d’icônes [>] entre chacune.
 
-d) Rédaction
+### d) Rédaction
 
 Un mot ou une expression par étapes, le plus succint le mieux.
 
-f) Pictogramme
+### f) Pictogramme
 
 Seule la section finale, de confirmation/validation du parcours pourra utiliser un icône [markup]
 
-g) Action
+### g) Action
 
 Cliquer sur une étape précédente ramènera l’utilisateur en arrière.
