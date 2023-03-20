@@ -2,12 +2,12 @@ import { src, dest } from 'gulp';
 import concat from 'gulp-concat';
 import sourcemaps from 'gulp-sourcemaps';
 import autoprefixer from 'gulp-autoprefixer';
-import sass from 'gulp-sass';
 import plumber from 'gulp-plumber';
 import cleanCSS from 'gulp-clean-css';
 import dartCompiler from 'dart-sass';
 import { reload, notify } from './serve';
 import config from './config';
+const sass = require('gulp-sass')(require('sass'));
 
 sass.compiler = dartCompiler;
 

@@ -20,7 +20,7 @@ import '@axa-fr/react-toolkit-all/dist/style/af-components.scss';
 
 ## Framework
 
-Vous pouvez utiliser **Slash Design System** indépendemment des [composants React](http://link) comme framework pour créer vos apps à partir de l'utilisation des fichiers sources **scss** ou **css** depuis les **node_modules** .
+Vous pouvez utiliser **Slash Design System** indépendemment des [composants React](https://axafrance.github.io/react-toolkit/latest/storybook) comme framework pour créer vos apps à partir de l'utilisation des fichiers sources **scss** ou **css** depuis les **node_modules** .
 
 **Component** : import du style par composant. Dans cette méthode, vous allez utiliser des fichiers sources des composants.
 De cette manière, importer uniquement les styles dont vous avez besoin afin de réduire votre bundles.
@@ -43,7 +43,7 @@ import './myheader.scss';
 
 Vous avez la possibilité d'utiliser les variables du framework et vous pouvez même surcharger leur valeurs.
 
-La liste des variables est de couleurs est disponibles sur la [page des couleurs.](/colors)
+La liste des variables est de couleurs est disponibles sur la [page des couleurs.](https://axafrance.github.io/design-system/guidelines/color/)
 
 Vous pouvez importer les variables dans le fichier SASS de votre composant :
 
@@ -53,7 +53,7 @@ Vous pouvez importer les variables dans le fichier SASS de votre composant :
 
 ## Icons
 
-Le framework met à disposition un [ensemble d'icones](/icones) utilisables de plusieurs manières :
+Le framework met à disposition un [ensemble d'icones](https://axafrance.github.io/design-system/guidelines/icones/) utilisables de plusieurs manières :
 
 Solution 1 : **classes CSS**
 

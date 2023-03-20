@@ -11,7 +11,7 @@ const generateGithubInfos = async () => {
   await Promise.all(
     files.map(async (file, index) => {
       const response = await fetch(
-        `https://raw.githubusercontent.com/AxaGuilDEv/react-toolkit/master/${file}.md`,
+        `https://raw.githubusercontent.com/AxaFrance/react-toolkit/master/${file}.md`,
       );
       const responseText = await response.text();
       fs.writeFileSync(
