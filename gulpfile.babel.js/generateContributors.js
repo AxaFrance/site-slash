@@ -1,8 +1,7 @@
 /* eslint-disable arrow-parens */
-import path, { resolve } from 'path';
+import path from 'path';
 import fs from 'fs';
 import config from './config';
-import contrib from './contrib.json';
 
 const { pathSrc } = config;
 
@@ -17,23 +16,26 @@ const getContributors = async () => {
   );
   const responseJson = await response.json();
   return responseJson;
-}; 
+};  
+
 
 const generateContributors = async () => {
   const contributorsRaw = await getContributors();
-  const reservedContributors = contributorsRaw.reverse();
-  const contributors = reservedContributors.map(({ weeks, total, ...restContributor }) => {
-    const additions = weeks.map(({ a }) => a).reduce((acc, curr) => acc + curr);
-    const deletions = weeks.map(({ d }) => d).reduce((acc, curr) => acc + curr);
-    const power = Number(total) + Number(additions) + Number(deletions);
-    return {
-      ...restContributor,
-      additions,
-      deletions,
-      power,
-      total,
-    };
-  }).sort((a, b) => b.power - a.power);
+  const reservedContributors = contributorsRaw?.reverse() ?? [];
+  const contributors = reservedContributors
+    .map(({ weeks, total, ...restContributor }) => {
+      const additions = weeks.map(({ a }) => a).reduce((acc, curr) => acc + curr);
+      const deletions = weeks.map(({ d }) => d).reduce((acc, curr) => acc + curr);
+      const power = Number(total) + Number(additions) + Number(deletions);
+      return {
+        ...restContributor,
+        additions,
+        deletions,
+        power,
+        total,
+      };
+    })
+    .sort((a, b) => b.power - a.power);
 
   let contentFile = '.tk-contributors\n';
 
@@ -49,7 +51,6 @@ const generateContributors = async () => {
     contentFile += `    span.tk-contributor__additions Additions : ${additions} ++\n`;
     contentFile += `    span.tk-contributor__deletions Deletions : ${deletions} --\n`;
     contentFile += `    span.tk-contributor power : ${power}\n`;
-
   });
 
   if (!fs.existsSync(pathContributorsPugTemplate)) {
