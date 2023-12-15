@@ -43,7 +43,7 @@ import './myheader.scss';
 
 Vous avez la possibilité d'utiliser les variables du framework et vous pouvez même surcharger leur valeurs.
 
-La liste des variables est de couleurs est disponibles sur la [page des couleurs.](https://axafrance.github.io/design-system/guidelines/color/)
+La liste des variables est de couleurs est disponibles sur la [page des couleurs.](https://axafrance.github.io/site-slash/guidelines/color/)
 
 Vous pouvez importer les variables dans le fichier SASS de votre composant :
 
@@ -53,7 +53,7 @@ Vous pouvez importer les variables dans le fichier SASS de votre composant :
 
 ## Icons
 
-Le framework met à disposition un [ensemble d'icones](https://axafrance.github.io/design-system/guidelines/icones/) utilisables de plusieurs manières :
+Le framework met à disposition un [ensemble d'icones](https://axafrance.github.io/site-slash/guidelines/icones/) utilisables de plusieurs manières :
 
 Solution 1 : **classes CSS**
 
