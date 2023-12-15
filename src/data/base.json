@@ -7,5 +7,5 @@
   "storybookIframeUrl": "https://axafrance.github.io/react-toolkit/latest/storybook/iframe.html?id=",
   "githubBaseUrl": "https://github.com/AxaFrance/react-toolkit/tree/master/packages/",
   "badgeBaseUrl": "https://badge.fury.io/js/",
-  "baseUrlProd": "https://axafrance.github.io/design-system"
+  "baseUrlProd": "https://axafrance.github.io/site-slash"
 }

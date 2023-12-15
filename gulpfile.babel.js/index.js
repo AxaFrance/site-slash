@@ -9,12 +9,12 @@ import sprite from './sprite';
 import serve from './serve';
 import copyIcons, { generatePugIcons } from './copyIcons';
 import generateGithubInfos from './generateGithubInfos';
-import generateContributors from './generateContributors';
+// import generateContributors from './generateContributors';
 
 const reloadImages = series(cleanImages, copyImages);
 const build = series(
   clean,
-  generateContributors,
+  // generateContributors,
   copyIcons,
   generateGithubInfos,
   generatePugIcons,
@@ -27,7 +27,7 @@ const build = series(
 
 const dev = series(
   clean,
-  generateContributors,
+  // generateContributors,
   copyIcons,
   generateGithubInfos,
   generatePugIcons,

@@ -16,7 +16,7 @@ Components are simple to use (just drag and drog it), simple to customize (by us
 
 You can easily build a new app from scratch or integrate some component into existing application.
 
-[html+css documentation website](https://axafrance.github.io/design-system)
+[html+css documentation website](https://axafrance.github.io/site-slash)
 [react storybook website](https://axafrance.github.io/react-toolkit/latest/storybook)
 
 ## Getting Started
@@ -97,7 +97,7 @@ Each component should be autonomous (HTML + CSS + JS) and extensible.
 
 -   BEM convention is used in order to break CSS cascading problem
 -   SCSS and CSS files are avalaible for every component and can be overrided or extended
--   [HTML/CSS Documentation](https://axafrance.github.io/design-system/)
+-   [HTML/CSS Documentation](https://axafrance.github.io/site-slash/)
 
 ### React :
 
